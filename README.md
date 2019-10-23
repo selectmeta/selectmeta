@@ -22,24 +22,24 @@
 
 ## Support developers in the development workflow
 
-Best User Interface
-Create projects and connect with Salesforce Instances
-Need not to shift another tool for package.xml
+Best User Interface <br />
+Create projects and connect with Salesforce Instances<br />
+Need not to shift another tool for package.xml<br />
 
 ## Manage your connected salesforce organization
 
-Set default SFDX Organization
-Generate password for scratch Salesforce Organization
-View all connected scratch Organization and non-scratch Salesforce Organization
+Set default SFDX Organization<br />
+Generate password for scratch Salesforce Organization<br />
+View all connected scratch Organization and non-scratch Salesforce Organization<br />
 
 ## Addition-to SFDX tools
 
-Handy for building a package.xml
-Pick metadata components from the UI
+Handy for building a package.xml<br />
+Pick metadata components from the UI<br />
 
 ## Supports DX source & metadata Format
 
-Retrieve Metadata in DX Source format
-Retrieve Metadata in mdapi format.
+Retrieve Metadata in DX Source format<br />
+Retrieve Metadata in mdapi format.<br />
 
 # For more information visit https://www.selectmeta.com/
